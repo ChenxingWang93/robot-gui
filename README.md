@@ -8,7 +8,7 @@ You may need to use Chrome,需要使用Chrome since some ES6 features are not su
 
 ![robot-gui](https://user-images.githubusercontent.com/3062564/31865318-7d97605e-b76d-11e7-8ab4-7c2a9e17be3d.png)
 
-# Geometry🦾几何
+# Geometry🦾的几何包围盒
 Configure the robot geometry using the *geometry* tab.配置🦾几何
 
 ![bildschirmfoto 2017-10-22 um 21 14 02](https://user-images.githubusercontent.com/3062564/31865347-f8010804-b76d-11e7-8452-e003677da2c7.png)
