@@ -1,5 +1,5 @@
 # robot-gui
-A three.js based 3D robot interface. 
+A three.js based 3D robot interface. 一个基于three.js的3D🦾界面
 
 # How To
 Download or clone.下载⏬或者克隆 Open `index.html` or [robot.glumb.de](http://robot.glumb.de). Enjoy 🤖😀 
