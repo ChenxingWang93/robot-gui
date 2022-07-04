@@ -1,10 +1,10 @@
-# robot-gui
+# robot-gui 🦾-图形用户界面
 A three.js based 3D robot interface. 一个基于three.js的3D🦾界面
 
-# How To
+# How To 怎么做
 Download or clone.下载⏬或者克隆 Open `index.html` or [robot.glumb.de](http://robot.glumb.de). Enjoy 🤖😀 
 
-You may need to use Chrome,需要使用Chrome since some ES6 features are not supported in other browsers yet.
+You may need to use Chrome,需要使用Chrome since some ES6 features are not supported in other browsers yet.因为某些ES6
 
 ![robot-gui](https://user-images.githubusercontent.com/3062564/31865318-7d97605e-b76d-11e7-8ab4-7c2a9e17be3d.png)
 
@@ -29,4 +29,6 @@ Click add Pose to visualize the working area for the current TCP orientation.点
 
 ![bildschirmfoto 2017-10-22 um 21 22 20](https://user-images.githubusercontent.com/3062564/31865429-3429e0c0-b76f-11e7-8ed3-f40d0fca6aaa.png)
 ![bildschirmfoto 2017-10-22 um 21 22 51](https://user-images.githubusercontent.com/3062564/31865591-71863d9a-b771-11e7-9d5d-9f010903c221.png)
+
+
 
